@@ -15,7 +15,7 @@
 💡 Experienced in **Software Engineering, Test Automation, Cloud Computing, and ML Pipelines**  
 🌱 Currently exploring **MLOps**, **Generative AI**, and **Full-stack Development**  
 📍 Based in **Buffalo, NY, USA**  
-⚡ Fun fact: I love optimizing systems — whether it’s code, data pipelines, or my coffee brewing process ☕
+⚡ Fun fact: 
 
 ---
 
