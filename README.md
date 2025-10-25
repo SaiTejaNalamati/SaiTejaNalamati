@@ -88,19 +88,6 @@
 - Built RBAC microservices reducing unauthorized access by 95%.  
 - Automated pipelines using Jenkins & Ansible reducing release time by 40%.  
 
----
-
-### 🚀 Key Projects
-
-#### 🖼️ Visual Sentiments: Multimodal Analysis of Images  
-**PyTorch | Transformers | EfficientNetB5 | NLP | OpenCV**  
-- Combined image & text models (EfficientNetB5 + RoBERTa) achieving 89% accuracy.  
-- Processed 31k+ social media images detecting harmful sentiment content at scale.  
-
-#### 🛒 Online Retail Application System  
-**Java | Spring Boot | Angular | PostgreSQL | Tableau**  
-- Built an e-commerce platform serving 10k+ orders with optimized workflows.  
-- Improved query latency by 60% and developed Tableau dashboards for insights.  
 
 ---
 
