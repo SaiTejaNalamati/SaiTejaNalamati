@@ -4,9 +4,8 @@
 
 <p align="center">
   <a href="mailto:saitejanalamati24@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sai-teja-nalamati-609449217/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/saitejanalamati"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=saitejanalamati&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ---
