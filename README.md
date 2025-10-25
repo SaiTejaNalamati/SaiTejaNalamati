@@ -101,13 +101,6 @@
 *B.Tech in Information Technology* — GPA: 8.98  
 📍 Tadepalligudem, India (2018–2022)  
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejanalamati&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
