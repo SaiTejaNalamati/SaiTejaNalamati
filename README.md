@@ -10,11 +10,13 @@
 ---
 
 ### 🧠 About Me
-Hi, I’m **Sai Teja**, a **Software Engineer with 4+ years of experience** in building and testing scalable, cloud-native applications across **finance, healthcare, and travel domains**.  
-I specialize in **Java, Spring Boot, RESTful APIs, microservices architecture**, and have strong expertise in **test automation, CI/CD, and cloud deployment using AWS, Docker, and Kubernetes**.  
+Hi there! I’m **Sai Teja**, a Software Engineer with 4+ years of experience building and testing scalable, cloud-native applications across finance, healthcare, and travel domains. I specialize in Java, Spring Boot, RESTful APIs, microservices architecture, and have strong expertise in automation frameworks, CI/CD, and cloud deployment using AWS, Docker, and Kubernetes.
 
-I’m passionate about **delivering reliable, high-performance software**, improving efficiency through automation, and optimizing pipelines for faster, safer releases.  
-Currently, I’m **open to full-time roles in SDE and SDET**. Feel free to reach out!  
+I’m passionate about delivering reliable, high-performance software and improving efficiency through automation, testing, and optimized pipelines. I’ve successfully built real-time healthcare platforms, end-to-end automation frameworks, and optimized CI/CD workflows, helping teams release faster and more reliably.
+
+I love solving complex problems, collaborating with cross-functional teams, and continuously learning new technologies to make software smarter and more scalable.
+
+Currently open to full-time roles in SDE and SDET. Feel free to reach out!  
 
 ---
 
