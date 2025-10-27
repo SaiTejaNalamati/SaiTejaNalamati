@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Engineer | SDE & SDET | Cloud, Automation & AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:saitejanalamati@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nsaiteja2024@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sai-teja-nalamati-609449217/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
