@@ -52,15 +52,15 @@ Always open to explore SDET opportunities feel free to reach out!
 
 ### 🛠️ Tech Stack
   
- **Test Automation Frameworks & Libraries:** Playwright, Selenium WebDriver, Appium, Rest-Assured, Karate, Cypress, Cucumber, Mocha,
+ - **Test Automation Frameworks & Libraries:** Playwright, Selenium WebDriver, Appium, Rest-Assured, Karate, Cypress, Cucumber, Mocha,
  TestNG, JUnit, Page Object Model (POM), Data-Driven Testing
- **Programming&Scripting:** Java, Python, TypeScript, JavaScript, SQL
- **APITesting&Tools:** Postman, Swagger / OpenAPI, Playwright APIRequestContext, SOAP & REST API Validation
- **CI/CD&BuildSystems:** Jenkins, Git, Maven, Docker, Kubernetes, Azure DevOps (basic pipeline integration)
- **Performance,Monitoring & Observability:** Google Lighthouse, JMeter, Splunk, Core Web Vitals Analysis, A/B Testing
- **Databases&DataValidation:** Oracle, MySQL, Hibernate ORM, SQL Querying & Data Integrity Validation
- **VersionControl & Collaboration:** Git, GitHub, GitLab, Jira, Confluence, QMetry
- **Development&Delivery Methodologies:** Agile / Scrum, CI/CD Automation, Release Readiness & Test Strategy Planning
+ - **Programming&Scripting:** Java, Python, TypeScript, JavaScript, SQL
+ - **APITesting&Tools:** Postman, Swagger / OpenAPI, Playwright APIRequestContext, SOAP & REST API Validation
+ - **CI/CD&BuildSystems:** Jenkins, Git, Maven, Docker, Kubernetes, Azure DevOps (basic pipeline integration)
+ - **Performance,Monitoring & Observability:** Google Lighthouse, JMeter, Splunk, Core Web Vitals Analysis, A/B Testing
+ - **Databases&DataValidation:** Oracle, MySQL, Hibernate ORM, SQL Querying & Data Integrity Validation
+ - **VersionControl & Collaboration:** Git, GitHub, GitLab, Jira, Confluence, QMetry
+ - **Development&Delivery Methodologies:** Agile / Scrum, CI/CD Automation, Release Readiness & Test Strategy Planning
 
 ---
 
