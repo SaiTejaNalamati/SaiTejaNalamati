@@ -2,10 +2,6 @@
 <h1 align="center">👋 Hi, I'm Sai Teja Nalamati</h1>
 <h3 align="center">💻 Automation Engineer | SDET | Cloud & AI/ML Enthusiast</h3>
 
-<p align="center">
-  <a href="mailto:saiteja24092000@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/venkata-satya-nalamati-66b81420b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
 
 ---
 
