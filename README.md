@@ -14,37 +14,7 @@ I’m passionate about improving release efficiency, strengthening automation co
 
 Always open to explore SDET opportunities feel free to reach out! 
 
----
-
-### 💼 Professional Experience Highlights
-
-**💊 Cedars-Sinai — Automation Engineer/SDET**  
-*May 2025 – Present | Los Angeles, CA*  
-- Built a scalable Playwright + TypeScript automation framework to replace the legacy Geb & Spock suite
-- Automated RESTful API workflows using Rest-Assured, Postman, and Swagger for schema and contract validation
-- Integrated UI and API automation suites into Jenkins CI/CD pipelines with nightly regression and smoke-gate checks
-- Performed backend data validation using SQL (Oracle/MySQL) across UI, API, and service layers
-- Implemented reusable utilities for authentication, token handling, payload construction, and environment configuration
-
-**✈️ Amadeus Software Labs — SDET**  
-*Aug 2022 – Jan 2024 | India*  
-- Migrated 150+ NDC workflow scenarios to Playwright in collaboration with QA and development teams
-- Optimized CI/CD pipelines using Docker, Kubernetes, and Jenkins with pipeline parallelization
-- Performed cross-browser and cross-device testing using AWS Device Farm, WebDriverIO, and Appium
-- Developed API automation using Rest-Assured and Playwright APIRequestContext for schema and payload validation
-- Implemented error monitoring and alerting pipelines using Splunk dashboards
-- Used Hibernate ORM with JUnit-based tests for backend data validation and data persistence automation
-
-**🏦 HSBC — QA Engineer**  
-*Jul 2020 – Aug 2022 | India*  
-- Developed and maintained web and mobile automation scripts using Selenium WebDriver, TestNG, and Java
-- Enhanced a hybrid automation framework using POM and Data-Driven Testing for improved reusability
-- Executed cross-platform mobile testing using Appium on devices, emulators, and cloud farms
-- Performed automated performance testing using Google Lighthouse to validate Core Web Vitals and page performance
-- Collaborated with DevOps teams to streamline CI/CD workflows using Maven and Jenkins
-- Conducted manual functional, regression, and integration testing for key banking workflows
-
----
+--- 
 
 ### 🛠️ Tech Stack
   
