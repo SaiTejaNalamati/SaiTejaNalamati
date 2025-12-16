@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me
-👋Hi there! I’m Sai Teja, an Automation Engineer / SDET with 4+ years of experience building robust automation frameworks and testing scalable applications across healthcare, travel, and banking domains. I work extensively with Playwright, Selenium, Rest-Assured, Java, and TypeScript, with strong expertise in UI/API automation, microservices validation, backend data testing, and end-to-end quality engineering.
+👋Hi there! I’m Sai Teja, an Software Engineer / SDET with building robust automation frameworks and testing scalable applications across healthcare, travel, and banking domains. I work extensively with Playwright, Selenium, Rest-Assured, Java, and TypeScript, with strong expertise in UI/API automation, microservices validation, backend data testing, and end-to-end quality engineering.
 
 I’ve designed and implemented automation architectures from the ground up, migrated large legacy suites to modern frameworks, and integrated testing into CI/CD pipelines using Jenkins, Docker, and Kubernetes. My work spans UI, API, mobile, and performance testing bringing together best practices, maintainable code, and automation-first testing strategies.
 
