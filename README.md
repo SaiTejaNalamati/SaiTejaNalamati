@@ -1,32 +1,28 @@
 <!-- Header Banner -->
 <h1 align="center">👋 Hi, I'm Sai Teja Nalamati</h1>
-<h3 align="center">💻 Automation Engineer | SDET | Cloud & AI/ML Enthusiast</h3>
+<h3 align="center">💻 Software Engineer | Cloud & AI/ML Enthusiast</h3>
 
 
 ---
 
 ### 🧠 About Me
-👋Hi there! I’m Sai Teja, an Software Engineer / SDET with building robust automation frameworks and testing scalable applications across healthcare, travel, and banking domains. I work extensively with Playwright, Selenium, Rest-Assured, Java, and TypeScript, with strong expertise in UI/API automation, microservices validation, backend data testing, and end-to-end quality engineering.
+👋Hi there! I’m Sai Teja, a Software Engineer Software Engineer with over 4.5 years of experience building scalable microservices and distributed systems across healthcare, fintech, and travel domains using Java, Spring Boot, Hibernate, Python, and Node.js for backend services, alongside React and Angular for frontend development. Skilled in microservices, REST and GraphQL APIs, event-driven architectures with Kafka and RabbitMQ, and cloud-native deployments on AWS with Docker, Kubernetes, and CI/CD pipelines. Experienced in integrating generative AI and RAG based retrieval systems, leveraging vector search and prompt-driven workflows to enhance operational efficiency and analytics.
 
-I’ve designed and implemented automation architectures from the ground up, migrated large legacy suites to modern frameworks, and integrated testing into CI/CD pipelines using Jenkins, Docker, and Kubernetes. My work spans UI, API, mobile, and performance testing bringing together best practices, maintainable code, and automation-first testing strategies.
-
-I’m passionate about improving release efficiency, strengthening automation coverage, and creating scalable solutions that help teams deliver high-quality releases consistently. I enjoy collaborating with cross-functional teams, solving complex quality challenges, and staying up to date with evolving test automation tools and platforms.
-
-Always open to explore SDET opportunities feel free to reach out! 
+Always open to explore SDE opportunities feel free to reach out! 
 
 --- 
 
 ### 🛠️ Tech Stack
-  
- - **Test Automation Frameworks & Libraries:** Playwright, Selenium WebDriver, Appium, Rest-Assured, Karate, Cypress, Cucumber, Mocha,
- TestNG, JUnit, Page Object Model (POM), Data-Driven Testing
- - **Programming&Scripting:** Java, Python, TypeScript, JavaScript, SQL
- - **APITesting&Tools:** Postman, Swagger / OpenAPI, Playwright APIRequestContext, SOAP & REST API Validation
- - **CI/CD&BuildSystems:** Jenkins, Git, Maven, Docker, Kubernetes, Azure DevOps (basic pipeline integration)
- - **Performance,Monitoring & Observability:** Google Lighthouse, JMeter, Splunk, Core Web Vitals Analysis, A/B Testing
- - **Databases&DataValidation:** Oracle, MySQL, Hibernate ORM, SQL Querying & Data Integrity Validation
- - **VersionControl & Collaboration:** Git, GitHub, GitLab, Jira, Confluence, QMetry
- - **Development&Delivery Methodologies:** Agile / Scrum, CI/CD Automation, Release Readiness & Test Strategy Planning
+ - **Programming & Scripting Languages:** C++, Java, Python, JavaScript, Typescript, PHP, Bash, Kotlin
+ - **Frontend & UI Development:** Angular, React, React Native, Next.js, Vue.js, Redux Toolkit, Tailwind CSS, Material UI, Mantine
+ - **Backend Frameworks & Build Tools:** Node.js, Express.js, Spring Boot, FastAPI, Django, JavaEE, Hibernate, Maven, Gradle
+ - **SQL/NoSQLDatabase:** PostgreSQL, MySQL, Oracle DB, MongoDB, DynamoDB, Redis
+ - **AI & LLM:** LangChain, OpenAI API, RAG pipelines, Weaviate, Pinecone, Vector Databases, Embedding-based Search, Prompt Engineering
+ - **Cloud & DevOps:** AWS (EC2, S3, Lambda), RDS, CloudWatch, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD, Jenkins, Vercel
+ - **Testing & QA Automation:** Jest, JUnit, TestNG, Mocha, Playwright, Cypress, Selenium, Postman, PyTest
+ - **Monitoring & Observability:** Prometheus, Grafana, Splunk, ELK Stack, Logstash, Kibana
+ - **Operating Systems:** Windows, Linux, macOS
+ - **Development Practices:** Agile, Scrum, TDD, BDD, Test Automation, Microservices Architecture, SOLID Principles
 
 ---
 
